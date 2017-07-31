@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name         = "Socket.IO-Client-Swift"
-  s.module_name  = "SocketIO"
+  s.name         = "Socket.IO-Client-Swift-Q"
+  s.module_name  = "SocketIOQ"
   s.version      = "11.0.0"
   s.summary      = "Socket.IO-client for iOS and OS X"
   s.description  = <<-DESC
