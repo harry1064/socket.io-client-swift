@@ -17,7 +17,6 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.source = {
     :git => "https://github.com/socketio/socket.io-client-swift.git",
-    :tag => 'v11.0.0',
     :submodules => true
   }
   s.source_files  = "Source/*.swift"
